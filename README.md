@@ -1,4 +1,5 @@
- ![Company Logo](documentation/logo1.png)
+<p align="center"><img src="documentation/logo1.png" width="70%"/></p>
+
  # <p align="center">**MS1: Water Stations Ireland**</p>
 
  ### View the live project [here.]()
