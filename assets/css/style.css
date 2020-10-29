@@ -53,9 +53,15 @@ body {
 .footer-section {
     color: #ffffff;
     background-color: #1F89E0;
-    font-family: "Raleway", sans-serif;
     text-align: center;
-    padding: 0.5rem;
+    padding: 1rem;
+}
+
+.footer-section h6 {
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 0.2rem;  
 }
 
 .footer-section a {
@@ -67,3 +73,13 @@ body {
     padding: 1rem;
 }
 
+.footer-logo1 {
+    height: 5rem;
+    margin-top: 1rem;
+}
+
+.footer-logo2 {
+    height: 4rem;
+    margin-top: 1rem;
+    padding-top: 0.5rem;
+}
