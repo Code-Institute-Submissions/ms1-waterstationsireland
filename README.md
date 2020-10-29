@@ -172,10 +172,10 @@ is, of course, the main element at play for this company. This video on the
 overall crisp tone of the site. 
 - <span style="color:#1F89E0">#1F89E0 Bleu de France</span>
 - #FFFFFF White
-- <span style="color:#153751">#153751 Prussian Blue</span>
+- <span style="color:#0C375A">#0C375A Prussian Blue</span>
 - <span style="color:#161412">#161412 Smoky Black</span>
 
-![Colour Scheme](documentation/colour-scheme.png)
+![Colour Scheme](documentation/colourscheme.png)
 
 It was important to ensure legibility of the text on the background it would be 
 displayed on so I also used *Contrast Checker* on [Coolors.co](https://coolors.co/) to ensure there would
