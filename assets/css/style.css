@@ -3,6 +3,7 @@
 /*-------------------------General----------------------- */
 body {
     font-family: "Raleway", sans-serif;
+    color: #161412;
 }
 
 /*-------------------------Header----------------------- */ 
@@ -41,9 +42,48 @@ body {
 }
 
 /*-------------------------Home Page-------------------- */ 
+.container-fluid {
+    padding: 0;
+}
+.who-section {
+    background-color: #0C375A;
+    color: #ffffff;
+    text-align: center;
+    padding: 3rem 1.5rem;
+}
 
+.what-section {
+    margin-right: 0;
+}
 
+.intro-section {
+    text-align: center;
+    padding: 4rem 2.5rem 1rem 2.5rem;
+}
 
+.intro-section a {
+    color: #1F89E0;
+}
+
+.intro-section a:hover {
+    color: #0C375A;
+    text-decoration: none;
+}
+
+h4 {
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: 0.2rem;
+    padding-bottom: .5rem;
+}
+
+.intro-section h4 {
+    color: #1F89E0;
+}
+
+.home-image {
+    align-content: center;
+    padding: 2rem 1rem 2rem 2rem;
+}
 /*-------------------------About Page------------------- */ 
 
 /*----------------------Products Page----------------- */ 
