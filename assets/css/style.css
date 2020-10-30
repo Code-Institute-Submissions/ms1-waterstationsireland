@@ -42,6 +42,8 @@ body {
 
 /*-------------------------Home Page-------------------- */ 
 
+
+
 /*-------------------------About Page------------------- */ 
 
 /*----------------------Products Page----------------- */ 
@@ -85,20 +87,22 @@ body {
 
 .footer-logo2 {
     height: 4rem;
-    margin-top: 1rem;
+    margin-top: 2rem;
     padding-top: 0.5rem;
 }
 
 .footer-copyright {
     font-size: 80%;
     font-weight: 100;
-    margin-top: 1rem;
+    padding-top: 2rem;
     text-align: left;
 }
 
 .footer-terms {
     font-size: 80%;
     font-weight: 600;
-    margin-top: 1rem;
+    padding-top: 2rem;
     text-align: right;
 }
+
+/*------------------Media Queries----------------------- */ 
