@@ -146,3 +146,22 @@ h3 {
 }
 
 /*------------------Media Queries----------------------- */ 
+@media only screen and (max-width: 576px) {
+    .slogan {
+        font-size: 2rem;
+        padding: 2rem 1rem;
+    }
+    .footer-section h6 {
+        display: none;
+    }
+    .footer-section a i {
+        padding: 1.5rem;
+    }
+
+}
+
+@media only screen and (min-width: 576px) and (max-width:1063px) {
+    .footer-logo2 {
+        display: none;
+    }
+}
