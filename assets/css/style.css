@@ -17,7 +17,6 @@ body {
     font-size: 110%;
     font-weight: 500;
     letter-spacing: 0.2rem;
-    border-bottom: .2rem solid #0C375A;
 }
 
 .navbar-brand {
@@ -39,6 +38,42 @@ body {
 
 .navbar-light .navbar-nav .nav-link:hover {
     color: #0C375A;
+}
+/*-------------------------Hero Video-------------------- */ 
+#video-container {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    align-content: center;
+    position: relative;
+}
+
+#water-bg {
+    height: 100%;
+    width: 100%;
+    object-fit: cover; 
+}
+
+#overlay {
+    top: 0;
+    left: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0,0,0,0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.slogan {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    letter-spacing: 0.2rem;
+    text-align: center;
+    color: #ffffff;
+    border: 0.1rem solid #ffffff;
+    padding: 2rem 4rem;
 }
 
 /*-------------------------Home Page-------------------- */ 
@@ -157,7 +192,12 @@ h3 {
     .footer-section a i {
         padding: 1.5rem;
     }
+}
 
+@media only screen and (min-width: 900px) {
+    .slogan {
+        font-size: 3rem;
+    }
 }
 
 @media only screen and (min-width: 576px) and (max-width:1063px) {
