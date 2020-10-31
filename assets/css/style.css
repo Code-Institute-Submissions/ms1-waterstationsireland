@@ -224,3 +224,9 @@ h2 {
          margin-top: 1.5rem;
      }
  }
+
+ @media only screen and (max-width: 991px) {
+    .navbar-light .navbar-nav .nav-link:hover {
+        background-color: rgba(0,0,0,0.1);
+    }
+ }
