@@ -150,9 +150,9 @@ Please find full versions of all wireframes and sketches below:
 - [Mobile Wireframes]()
 - [Tablet Wireframes]()
 - [Desktop Wireframes]()
-- [Initial Mobile Sketch](documentation/sketches/mobile-mockup-sketch.jpg)
-- [Initial Tablet Sketch](documentation/sketches/tablet-mockup-sketch.jpg)
-- [Initial Desktop Sketch](documentation/sketches/desktop-mockup-sketch.jpg)
+- [Initial Mobile Sketch](documentation/sketches/mobile-mockup-sketch.pdf)
+- [Initial Tablet Sketch](documentation/sketches/tablet-mockup-sketch.pdf)
+- [Initial Desktop Sketch](documentation/sketches/desktop-mockup-sketch.pdf)
 
 ### **Surface**
 #### Design
