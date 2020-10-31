@@ -24,7 +24,7 @@ the company and/or to enquire about their products.
     - [Structure](#structure)
         - [Home Page](#home-page)
         - [About Page](#about-page)
-        - [Our Products Page](#our-products-page)
+        - [Products Page](#products-page)
         - [Contact Page](#contact-page)
         - [Navigation Bar](#navigation-bar)
         - [Footer](#footer)
@@ -40,7 +40,7 @@ the company and/or to enquire about their products.
     - [Features Left to Implement](#features-left-to-implement)
  - [**Technologies Used**](#technologies-used)
     - [Languages](#languages)
-    - [Frameworks and Libraries](#frameworks-and-libraries)
+    - [Technologies](#technologies)
  - [**Testing**](#testing)
     - [User Testing](#user-testing)
  - [**Deployment**](#deployment)
@@ -48,6 +48,7 @@ the company and/or to enquire about their products.
     - [Content](#content)
     - [Media](#media)
     - [Acknowledgements](#acknowledgements)
+
 ---
 
 ## <p align="center">**UX**</p>
@@ -63,8 +64,8 @@ the company and/or to enquire about their products.
 
 #### Target Audience
 The target audience for this website would be potential customers looking to 
-enquire about and purchase sustainable Water Stations. Potential customers would
- include Local Authorities, Government Bodies, Business Owners, Schools/Universities. 
+enquire about and purchase sustainable Water Stations. Potential customers would 
+include Local Authorities, Government Bodies, Business Owners, Schools/Universities. 
 
 #### Site Owner Goals
 - Establish an online presence for ***Water Stations Ireland***.
@@ -87,10 +88,11 @@ enquire about and purchase sustainable Water Stations. Potential customers would
 - The site must be visually consistent to make users comfortable.
 - The site must be responsive across different devices. 
 - A map showcasing where Water Stations have already been purchased and installed will be left as a feature to be implemented at a later date and so will **not** be included in this release. 
+- The company's *Terms* and *Privacy Policy* (available as external links to PDFs) will be left as features to be implemented at a later date and so will **not** be included in this release.
 
 ### **Structure**
-The website will consist of four separate and structured pages; *Home*, *About*, *Our 
-Products* and *Contact*. Each page will be consistent in terms of layout and design
+The website will consist of four separate and structured pages; *Home*, *About*, 
+*Products* and *Contact*. Each page will be consistent in terms of layout and design
 so that the user is comfortable. The same navigation menu and footer will be 
 present across all pages to allow for navigation ease. Three of the four pages
 will contain the same hero image. The *Home* page will differ slightly and will
@@ -108,7 +110,7 @@ all devices.
 - Will contain information about the sustainability of the company and its products.
 - Important to have this information clear on the site so that a potential customer knows if the company’s ethos aligns with their own. 
 
-#### Our Products Page
+#### Products Page
 - Will contain detailed information about the different Water Stations available and the different options they offer.
 - Will contain different images of the Water Stations.
 - Important to include this so that a potential customer can see real-life images of the products they’re interested in and clear information about what is included with each type of Water Station.
@@ -148,10 +150,9 @@ Please find full versions of all wireframes and sketches below:
 - [Mobile Wireframes]()
 - [Tablet Wireframes]()
 - [Desktop Wireframes]()
-- [Initial Mobile Sketch]()
-- [Initial Tablet Sketch]()
-- [Initial Desktop Sketch]()
-
+- [Initial Mobile Sketch](documentation/sketches/mobile-mockup-sketch.jpg)
+- [Initial Tablet Sketch](documentation/sketches/tablet-mockup-sketch.jpg)
+- [Initial Desktop Sketch](documentation/sketches/desktop-mockup-sketch.jpg)
 
 ### **Surface**
 #### Design
@@ -178,8 +179,8 @@ overall crisp tone of the site.
 ![Colour Scheme](documentation/colourscheme.png)
 
 It was important to ensure legibility of the text on the background it would be 
-displayed on so I also used *Contrast Checker* on [Coolors.co](https://coolors.co/) to ensure there would
- be no issues with my chosen palette. 
+displayed on so I also used *Contrast Checker* on [Coolors.co](https://coolors.co/) to ensure there would 
+be no issues with my chosen palette. 
 
 #### Typography
 The company use the font <span style="font-family:Montserrat">Montserrat</span> in their brochures and logos and so I decided 
@@ -213,11 +214,12 @@ format used however, keeps the design consistency flowing.
 ### **Languages**
 - HTML5
 - CSS3
-### **Frameworks and Libraries**
-- [Balsamiq](https://balsamiq.com/) - used to create wireframes
-- [Coolors.co](https://coolors.co/) - used to choose colour scheme and contrast-checking
+### **Technologies**
+- [Balsamiq](https://balsamiq.com/) - used to create wireframes.
+- [Bootstrap](https://getbootstrap.com/)  - used throughout the website for styling and layouts. 
+- [Coolors](https://coolors.co/) - used to choose colour scheme and contrast-checking.
+- [Font Awesome](https://fontawesome.com/) - used icons to create social media links.
 - [Google Fonts](https://fonts.google.com/specimen/Raleway?query=rale) - selected <span style="font-family:Raleway">Raleway</span> font.
-
 
 ---
 
