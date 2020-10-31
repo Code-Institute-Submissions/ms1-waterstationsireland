@@ -140,11 +140,17 @@ all devices.
 
 ### **Skeleton**
 All wireframes were created using [Balsamiq](https://balsamiq.com/). 
-- Mobile Wireframes
+#### Mobile; Home Page
 
-- Tablet Wireframes
+![Mobile-Home](documentation/wireframes/mobile-home.png)
 
-- Desktop Wireframes
+#### Tablet; Home Page
+
+![Tablet-Home](documentation/wireframes/tablet-home.png)
+
+#### Desktop; Home Page 
+
+![Desktop-Home](documentation/wireframes/desktop-home.png)
 
 Please find full versions of all wireframes and sketches below:
 - [Mobile Wireframes]()
