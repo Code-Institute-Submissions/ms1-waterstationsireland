@@ -87,6 +87,10 @@ body {
     padding: 3rem 1.5rem;
 }
 
+.who-section p {
+    font-size: 1.2rem;
+}
+
 .what-section {
     margin-right: 0;
 }
@@ -105,13 +109,13 @@ body {
     text-decoration: none;
 }
 
-h3 {
+h2 {
     font-family: "Montserrat", sans-serif;
     letter-spacing: 0.2rem;
     padding-bottom: 1rem;
 }
 
-.intro-section h3 {
+.intro-section h2 {
     color: #1F89E0;
 }
 
@@ -204,7 +208,7 @@ h3 {
      }
  }
 
- @media only screen and (max-width: 1258px) and (min-width: 991px) {
+ @media only screen and (max-width: 1258px) and (min-width: 992px) {
      .footer-logo1 {
          height: 4.5rem;
          padding-right: 0;
