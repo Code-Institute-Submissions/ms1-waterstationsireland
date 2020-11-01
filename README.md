@@ -133,8 +133,7 @@ all devices.
 
 #### Links
 - All links will change colour when hovered over to make it clear to the user that they are links.
-- External links, i.e. to social media accounts, will open in a new tab so that users will not have to leave the site.
-- *Terms* and *Privacy Policy*, contained in the footer, will open as downloadable PDFs in a new tab.  
+- External links, i.e. to social media accounts, will open in a new tab so that users will not have to leave the site. 
 - Internal links will all work and lead the user to the correct place within the site. 
 - The company logo will also act as a link to the *Home Page*. 
 
@@ -152,10 +151,10 @@ All wireframes were created using [Balsamiq](https://balsamiq.com/).
 
 ![Desktop-Home](documentation/wireframes/desktop-home.png)
 
-Please find full versions of all wireframes and sketches below:
-- [Mobile Wireframes]()
-- [Tablet Wireframes]()
-- [Desktop Wireframes]()
+Please find full PDF versions of all wireframes and sketches below:
+- [Mobile Wireframes](documentation/wireframes/mobile)
+- [Tablet Wireframes](documentation/wireframes/tablet)
+- [Desktop Wireframes](documentation/wireframes/desktop)
 - [Initial Mobile Sketch](documentation/sketches/mobile-mockup-sketch.pdf)
 - [Initial Tablet Sketch](documentation/sketches/tablet-mockup-sketch.pdf)
 - [Initial Desktop Sketch](documentation/sketches/desktop-mockup-sketch.pdf)
