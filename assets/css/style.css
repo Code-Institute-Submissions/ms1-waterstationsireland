@@ -5,7 +5,7 @@
 body {
     font-family: "Raleway", sans-serif;
     color: #161412;
-    padding-top: 4rem;
+    padding-top: 3.125rem;
 }
 
 .container-fluid {
@@ -137,7 +137,7 @@ h2 {
 /*----------------------Contact Page-------------------- */ 
 .contact-section {
     text-align: center;
-    padding: 2rem 1.5rem;
+    padding: 4rem 1.5rem;
 }
 .contact-section a {
     color: #1F89E0;
@@ -276,6 +276,9 @@ label, #submit {
     }
     .form-prompt {
         display: none;
+    }
+    .form-group {
+        padding: 2rem 4rem 1rem 4rem;
     }
 }
 
