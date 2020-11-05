@@ -5,7 +5,7 @@
 body {
     font-family: "Raleway", sans-serif;
     color: #161412;
-    padding-top: 3.125rem;
+    padding-top: 4rem;
 }
 
 .container-fluid {
@@ -135,6 +135,46 @@ h2 {
 /*--------------------Our Products Page----------------- */ 
 
 /*----------------------Contact Page-------------------- */ 
+.contact-section {
+    text-align: center;
+    padding: 2rem 1.5rem;
+}
+.contact-section a {
+    color: #1F89E0;
+}
+.contact-section a:hover {
+    color: #0C375A;
+    text-decoration: none;
+}
+.contact-section a i {
+    font-size: 2rem;
+    padding: 1.5rem;
+}
+
+.form-group {
+    padding: 1rem;
+    margin-bottom: 0;
+}
+
+label {
+    float: left;
+    color: #0C375A;
+}
+label, #submit {
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: .2rem;
+    margin-bottom: 0;
+}
+
+#submit {
+    color: #ffffff;
+    background-color: #0C375A;
+    border: none;
+    padding: .5rem;
+}
+#submit:hover {
+    background-color: #1F89E0;
+}
 
 /*-------------------------Footer----------------------- */
 .footer-section {
