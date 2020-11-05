@@ -237,6 +237,9 @@ label, #submit {
     #logo {
         height: 4rem;
     }
+    .contact-section a i {
+        padding: 2rem;
+    }
 }
 
 @media only screen and (min-width: 576px) {
@@ -258,11 +261,21 @@ label, #submit {
     .footer-logo2 {
          padding-left: 2rem;
     }
+    .form-group {
+        padding: 1rem 4rem;
+    }
+    .contact-info {
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
 }
 
 @media only screen and (min-width: 992px) {
     .navbar-light .navbar-nav .nav-link:hover {
         background-color: #ffffff;
+    }
+    .form-prompt {
+        display: none;
     }
 }
 
