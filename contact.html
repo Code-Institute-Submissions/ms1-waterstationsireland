@@ -38,37 +38,58 @@
     </header>
     <!------------End of HEADER---------------->
     <!------------CONTACT---------------------> 
-    <div class="contact-section">
-        <div class="row">
-            <div class="col contact-info">
-                <h2></h2>
+    <div class="container-fluid contact-section">
+        <div class="row align-items-center">
+            <div class="col-sm-12 col-lg-6 contact-info">
+                <h2>Contact Us</h2>
                 <p>
+                    For further information or to make enquiries about our Water Stations please 
+                    complete our contact form<span class="form-prompt"> below</span>.<br>
                 </p>
                 <p>
+                    Alternatively feel free to contact us at <strong>hello@waterstationsireland.com</strong> 
+                    or by phone at <a href="tel:+353857216226">+353 85 7216226</a>.
                 </p>
                 <p>
+                    We are based in:<br>
+                    Oceanic House, Docklands Innovation Park, 128 - 130 East Wall Road, Dublin 3<br>
+                    and<br>
+                    Bunnahowna, Mulranny, Westport, Co. Mayo   
                 </p>
-                <p>
+                <p><br>
+                    Connect with us on social media!<br>
+                    <a href="https://www.facebook.com/waterstations.ie" target="_blank">
+                        <i class="fab fa-facebook-f" aria-hidden="true"></i>
+                        <span class="sr-only">Facebook</span>
+                    </a>
+                    <a href="https://twitter.com/WaterStationsIE" target="_blank">
+                        <i class="fab fa-twitter" aria-hidden="true"></i>
+                        <span class="sr-only">Twitter</span>
+                    </a>   
+                    <a href="https://www.instagram.com/waterstationsie/" target="_blank">
+                        <i class="fab fa-instagram" aria-hidden="true"></i>
+                        <span class="sr-only">Instagram</span><br>
+                    </a>
                 </p>
             </div>
-            
+
             <!--------Contact Form--------->
-            <div class="col">
+            <div class="col-sm-12 col-lg-6">
                 <form>
-                    <div>
-                        <label for=""></label>
-                        <input type="text">
+                    <div class="form-group">
+                        <label for="fullname">Full Name:</label><br>
+                        <input type="text" name="fullname" class="form-control" id="fullname" required>
 
-                        <label for=""></label>
-                        <input type="text">
+                        <label for="phone-number">Phone Number:</label><br>
+                        <input type="text" name="phone-number" class="form-control" id="phone-number" required>
 
-                        <label for=""></label>
-                        <input type="text">
+                        <label for="email">Email Address:</label><br>
+                        <input type="email" name="email" class="form-control" id="email" required>
 
-                        <label for=""></label>
-                        <input type="text">
+                        <label for="enquiry">Subject:</label><br>
+                        <textarea name="enquiry" class="form-control" id="enquiry" cols="30" rows="10" placeholder="Your message or enquiry here..." required></textarea><br>
 
-                        <input type="submit" value="Submit">
+                        <input type="submit" name="submit" id="submit" value="Submit">
                     </div>    
                 </form>
             </div>
