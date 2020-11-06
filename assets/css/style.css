@@ -172,11 +172,22 @@ h5 {
 
 .options-section {
     text-align: center;
-    padding: 2rem;
+    padding: 1.5rem 1rem;
 }
 .options-section ul {
     text-align: left;
 }
+
+.option1, .option2 {
+    margin-bottom: .5rem;
+    padding: 2rem 1rem;
+    border: .15rem #0C375A solid;
+}
+.option1, .option1 h5 {
+    background-color: #0C375A;
+    color: #ffffff;
+}
+
 
 
 /*----------------------Contact Page-------------------- */ 
