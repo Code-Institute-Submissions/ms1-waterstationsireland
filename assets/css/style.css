@@ -144,6 +144,10 @@ h2 {
 .promise-section h2 {
     color: #ffffff;
 }
+.promise-section i {
+    font-size: 2rem;
+    padding: 1rem;
+}
 
 .station-image, .mission-image {
     padding: 1rem 2rem 2rem 2rem;
@@ -290,6 +294,9 @@ label, #submit {
 @media only screen and (min-width: 992px) {
     .navbar-light .navbar-nav .nav-link:hover {
         background-color: #ffffff;
+    }
+    .home-image, .station-image, .mission-image {
+        padding-bottom: 1rem;
     }
     .form-prompt {
         display: none;
