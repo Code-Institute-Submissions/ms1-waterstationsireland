@@ -131,7 +131,11 @@ h2 {
     margin: 0;
 }
 
-.mission-section, .station-section {
+.station-section {
+    padding: 4rem 2rem .5rem 2rem;
+}
+
+.mission-section {
     padding: 2rem 2rem .5rem 2rem;
 }
 
@@ -267,6 +271,13 @@ label, #submit {
     #overlay h1 {
         font-size: 2rem;
     }
+    .contact-info {
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
+    .form-group {
+        padding: 1rem 4rem;
+    }
     .footer-section h6 {
         display: block;
     }
@@ -282,13 +293,6 @@ label, #submit {
     .footer-logo2 {
          padding-left: 2rem;
     }
-    .form-group {
-        padding: 1rem 4rem;
-    }
-    .contact-info {
-        padding-left: 4rem;
-        padding-right: 4rem;
-    }
 }
 
 @media only screen and (min-width: 992px) {
@@ -297,6 +301,9 @@ label, #submit {
     }
     .home-image, .station-image, .mission-image {
         padding-bottom: 1rem;
+    }
+    .station-image {
+        padding-top: 3.5rem;
     }
     .form-prompt {
         display: none;
