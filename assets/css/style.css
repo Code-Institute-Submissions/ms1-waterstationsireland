@@ -19,6 +19,13 @@ h2 {
     color: #1F89E0;
 }
 
+h5 {
+    font-family: "Montserrat", sans-serif;
+    letter-spacing: .2rem;
+    padding-bottom: 1rem;
+    color: #1F89E0;
+}
+
 /*-------------------------Header----------------------- */ 
 #logo {
     height: 3rem;
@@ -158,6 +165,19 @@ h2 {
 }
 
 /*--------------------Our Products Page----------------- */ 
+.products-section {
+    text-align: center;
+    padding: 4rem 2rem .5rem 2rem;
+}
+
+.options-section {
+    text-align: center;
+    padding: 2rem;
+}
+.options-section ul {
+    text-align: left;
+}
+
 
 /*----------------------Contact Page-------------------- */ 
 .contact-section {
