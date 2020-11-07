@@ -180,11 +180,15 @@ h5 {
 
 .option1, .option2 {
     margin-bottom: .5rem;
-    padding: 2rem 1rem;
+    padding: 1rem;
 }
 .option1, .option1 h5 {
     background-color: #0C375A;
     color: #ffffff;
+}
+
+.option-image {
+    padding: 1rem 2rem 2rem 2rem;
 }
 
 
