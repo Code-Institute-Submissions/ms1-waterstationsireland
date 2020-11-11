@@ -35,8 +35,10 @@ the company and/or to enquire about their products.
         - [Colour](#colour)
         - [Typography](#typography)
         - [Images](#images)
+        - [Final Design Differences](#final-design-differences)
  - [**Features**](#features)
     - [Exisiting Features](#existing-features)
+    - [Current Limitations](#current-limitations)
     - [Features Left to Implement](#features-left-to-implement)
  - [**Technologies Used**](#technologies-used)
     - [Languages](#languages)
@@ -83,12 +85,14 @@ include Local Authorities, Government Bodies, Business Owners, Schools/Universit
 - Images of the Water Stations must be displayed, accompanied by detailed descriptions of the different options offered.
 - A clear means of contacting the company must be provided via a contact form and a display of the company’s phone, email and social media accounts. 
 - The company wants their logo on display and so it will remain fixed to the top of the page consistently across the site.
+- Being a member of *Guaranteed Irish* is an important selling-point for the company and so that logo will be on display in the footer consistently across the site.
 - A fixed navigation menu must be included to always allow users to make their way through the site easily.
 - The site must showcase the professionalism of the company and so it must have a clean and modern layout and design. 
 - The site must be visually consistent to make users comfortable.
 - The site must be responsive across different devices. 
-- A map showcasing where Water Stations have already been purchased and installed will be left as a feature to be implemented at a later date and so will **not** be included in this release. 
-- The company's *Terms* and *Privacy Policy* (available as external links to PDFs) will be left as features to be implemented at a later date and so will **not** be included in this release.
+- A map showcasing where Water Stations have already been purchased and installed will be left as a feature to be implemented and so will **not** be included in this release.
+- A gallery page showcasing images of the differed types of Water Stations available will be left as a feature to be implemented and so will **not** be included in this release.
+- The company's *Terms* and *Privacy Policy* (available as external links) will be left as features to be implemented and so will **not** be included in this release.
 
 ### **Structure**
 The website will consist of four separate and structured pages; *Home*, *About*, 
@@ -103,7 +107,7 @@ all devices.
 #### Home Page
 - Will contain an introduction telling the user who the company is and what it is that they do. 
 - Will contain an image of a Water Station so the user can become familiar with their appearance immediately.
-- Important to introduce the purpose straight away so that a user knows immediately what to expect from the site. 
+- Important to introduce the purpose straight away so that a user knows immediately what to expect from the site.
 
 #### About Page
 - Will contain information about the company’s values and goals.
@@ -122,12 +126,13 @@ all devices.
 - Users will be alerted if any of the required fields are left blank or filled out incorrectly.
 
 #### Navigation Bar
-- Will remain fixed to the top of each page for consistency across all pages and devices; it will take on a hamburger menu style on smaller devices for a cleaner and less cramped appearance. 
+- Will remain fixed to the top of each page for consistency across all pages and devices
+- It will take on a hamburger menu style on smaller devices for a cleaner appearance. 
 - Will contain clear names of each site page for navigation ease.
 
 #### Footer
 - Will remain fixed at the bottom of each page for consistency across all pages and devices. 
-- Will contain the company’s contact information; phone and email, as well as a link to the contact form on the Contact Page. 
+- Will contain the company’s contact information; phone and email, as well as a link to the contact form on the *Contact Page*. 
 - Will contain links to the company’s social media accounts; Twitter, Facebook and Instagram, in the form of the appropriate icons. 
 - Will contain two logos as requested by the company; their own and *Guaranteed Irish*. 
 
@@ -204,14 +209,31 @@ company’s Water Stations. I felt the video would become too repetitive if adde
 across all pages and so I chose an image instead. The same opaque overlay and title 
 format used however, keeps the design consistency flowing.
 
+#### Final Design Differences
+Any last minute design changes to original plan here.
 
 ---
 
 ## <p align="center">**Features**</p>
 ### **Existing Features**
+- 
+- 
+
+### **Current Limitations**
+- As there is no JavaScript in this release, the contact form on the *Contact Page* will not store any data. 
 
 ### **Features Left to Implement**
+- #### Map
+    - An interactive map which allows users to see where Water Stations are already installed and in-use. 
 
+- #### Gallery Page
+    - A full *Gallery Page* which allows users to see a range of images of the different options of Water Stations available, 
+    including images of where these stations are currently installed.
+
+- #### *Terms* and *Privacy Policy* 
+    - The company has not yet finalised the documentation for their *Terms* and *Privacy Policy*. At a later date they will be 
+    accessed on the website via links in the footer. In this release, these links are empty and, if clicked, will keep the 
+    user on the current page. 
 
 ---
 
@@ -220,11 +242,18 @@ format used however, keeps the design consistency flowing.
 - HTML5
 - CSS3
 ### **Technologies**
+- [Adobe Illustrator](https://www.adobe.com/ie/products/illustrator.html) - used to create the company logos.
+- [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html) - used to resize all images for web.
 - [Balsamiq](https://balsamiq.com/) - used to create wireframes.
-- [Bootstrap](https://getbootstrap.com/)  - used throughout the website for styling and layouts. 
-- [Coolors](https://coolors.co/) - used to choose colour scheme and contrast-checking.
+- [Bootstrap](https://getbootstrap.com/)  - used throughout the website for various styling and responsive layouts. 
+- [Coolors](https://coolors.co/) - used to choose colour scheme and for contrast-checking of chosen colours.
 - [Font Awesome](https://fontawesome.com/) - used icons to create social media links.
+- [Git]() - 
+- [Gitpod](https://www.gitpod.io/) - 
+- [GitHub](https://github.com/) - 
+- [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) - used for inspecting various page elements and identifying any layout issues/bugs. 
 - [Google Fonts](https://fonts.google.com/specimen/Raleway?query=rale) - selected <span style="font-family:Raleway">Raleway</span> font.
+- [Techsini Mockup Generator](http://techsini.com/multi-mockup/index.php) - used to create the multi-device image found at the top of this README.
 
 ---
 
@@ -239,8 +268,15 @@ format used however, keeps the design consistency flowing.
 
 ## <p align="center">**Credits**</p>
 ### **Content**
+- All written content contained on the site was either provided by ***Water Stations Ireland*** or written by me in collaboration with the company.
+- Code for hero video - 
 
 ### **Media**
-- [Coverr.co](https://coverr.co/) - source of water droplet video 
+- Water Droplet video on *Home Page* can be found at [Coverr.co](https://coverr.co/videos/slow-motion-water-drop-WGvpkodDWH).
+- Plastic bottle image on *About Page* by Brian Yurasits on [Unsplash](https://unsplash.com/photos/Lvs1F46S8Rs).
+- ***Water Stations Ireland*** logos were created by me in collaboration with the company.
+- All other images were provided by ***Water Stations Ireland***. I was granted full permission for use. 
 
 ### **Acknowledgements**
+
+
