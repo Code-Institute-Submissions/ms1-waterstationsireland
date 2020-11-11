@@ -130,8 +130,9 @@ h5 {
 }
 
 .home-image {
-    padding: 1rem 2rem 2rem 2rem;
+    padding: 1rem 1.5rem 1.5rem 1.5rem;
 }
+
 /*-------------------------About Page------------------- */ 
 .about-section {
     text-align: center;
@@ -161,7 +162,7 @@ h5 {
 }
 
 .station-image, .mission-image {
-    padding: 1rem 2rem 2rem 2rem;
+    padding: 1rem 1.5rem 1.5rem 1.5rem;
 }
 
 /*--------------------Our Products Page----------------- */ 
@@ -170,28 +171,26 @@ h5 {
     padding: 4rem 2rem .5rem 2rem;
 }
 
-.options-section {
+.options-section1 {
     text-align: center;
-    padding: 1.5rem 1rem;
-}
-.options-section ul {
-    text-align: left;
-}
-
-.option1, .option2 {
-    margin-bottom: .5rem;
-    padding: 1rem;
-}
-.option1, .option1 h5 {
+    padding: 1.5rem;
+    margin: 1rem;
     background-color: #0C375A;
     color: #ffffff;
 }
-
-.option-image {
-    padding: 1rem;
+.options-section1 h5 {
+    color: #ffffff;
 }
 
+.options-section2 {
+    text-align: center;
+    padding: 1.5rem;
+    margin: 1rem;
+}
 
+.options-section1 ul, .options-section2 ul {
+    text-align: left;
+}
 
 /*----------------------Contact Page-------------------- */ 
 .contact-section {
@@ -259,7 +258,7 @@ label, #submit {
     text-decoration: none;
 }
 .footer-section a i {
-    font-size: xx-large;
+    font-size: 2rem;
     padding: 1rem 1.5rem;
 }
 
@@ -332,10 +331,7 @@ label, #submit {
 @media only screen and (min-width: 992px) {
     .navbar-light .navbar-nav .nav-link:hover {
         background-color: #ffffff;
-    }
-    .home-image, .station-image, .mission-image {
-        padding-bottom: 1rem;
-    }
+    } 
     .station-image {
         padding-top: 3.5rem;
     }
