@@ -103,7 +103,12 @@ h5 {
 }
 
 /*-------------------------Hero Images------------------ */ 
-
+#hero-container {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+}
 /*-------------------------Home Page-------------------- */ 
 .who-section {
     background-color: #0C375A;
