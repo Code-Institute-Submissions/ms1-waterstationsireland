@@ -109,6 +109,34 @@ h5 {
     overflow: hidden;
     position: relative;
 }
+
+.hero-about {
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/hero1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-products {
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/hero2.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hero-contact {
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/hero3.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 /*-------------------------Home Page-------------------- */ 
 .who-section {
     background-color: #0C375A;
