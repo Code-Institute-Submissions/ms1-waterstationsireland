@@ -36,6 +36,14 @@ h5 {
     color: #1F89E0;
 }
 
+h6 {
+    font-family: "Montserrat", sans-serif;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: .2rem;
+    display: none; 
+}
+
 /*-------------------------Header----------------------- */ 
 #logo {
     height: 3rem;
@@ -154,7 +162,7 @@ h5 {
 
 .intro-section {
     text-align: center;
-    padding: 2rem 2rem .5rem 2rem;
+    padding: 3rem 2rem .5rem 2rem;
 }
 .intro-section a {
     color: #1F89E0;
@@ -175,11 +183,11 @@ h5 {
 }
 
 .station-section {
-    padding: 4rem 2rem .5rem 2rem;
+    padding: 3rem 2rem .5rem 2rem;
 }
 
 .mission-section {
-    padding: 2rem 2rem .5rem 2rem;
+    padding: 3rem 2rem .5rem 2rem;
 }
 
 .promise-section {
@@ -203,7 +211,7 @@ h5 {
 /*--------------------Our Products Page----------------- */ 
 .products-section {
     text-align: center;
-    padding: 4rem 2rem .5rem 2rem;
+    padding: 3rem 2rem 1rem 2rem;
 }
 
 .options-section1 {
@@ -230,7 +238,7 @@ h5 {
 /*----------------------Contact Page-------------------- */ 
 .contact-section {
     text-align: center;
-    padding: 4rem 1.5rem;
+    padding: 3rem 1.5rem;
 }
 .contact-section a {
     color: #1F89E0;
@@ -276,15 +284,6 @@ label, #submit {
     text-align: center;
     padding: 1.5rem 1rem 1rem 1rem;
 }
-
-.footer-section h6 {
-    font-family: "Montserrat", sans-serif;
-    text-transform: uppercase;
-    font-weight: 600;
-    letter-spacing: .2rem;
-    display: none; 
-}
-
 .footer-section a {
     color: #ffffff;
 }
