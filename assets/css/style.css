@@ -5,11 +5,21 @@
 body {
     font-family: "Raleway", sans-serif;
     color: #161412;
-    padding-top: 3.125rem;
 }
 
 .container-fluid {
     padding: 0;
+}
+
+/*-----------------------Headings----------------------- */ 
+h1 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    font-size: 1.25rem;
+    letter-spacing: .3rem;
+    text-align: center;
+    color: #ffffff;
+    padding: 6rem 2rem 0 2rem;
 }
 
 h2 {
@@ -36,7 +46,7 @@ h5 {
     font-family: "Montserrat", sans-serif;
     font-size: 1.1rem;
     font-weight: 500;
-    letter-spacing: .2rem;
+    letter-spacing: .3rem;
     border-bottom: .15rem #0C375A solid;
 }
 
@@ -86,21 +96,13 @@ h5 {
     position: absolute;
     height: 100%;
     width: 100%;
-    background-color: rgba(0,0,0,0.3);
+    background-color: rgba(0,0,0,0.4);
     display: flex;
     align-items: center;
     justify-content: center;
 }
-#overlay h1 {
-    font-family: "Montserrat", sans-serif;
-    font-weight: 300;
-    font-size: .75rem;
-    letter-spacing: .2rem;
-    text-align: center;
-    color: #ffffff;
-    border: .1rem solid #ffffff;
-    padding: 2rem 4rem;
-}
+
+/*-------------------------Hero Images------------------ */ 
 
 /*-------------------------Home Page-------------------- */ 
 .who-section {
