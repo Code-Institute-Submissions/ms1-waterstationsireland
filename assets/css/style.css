@@ -323,8 +323,8 @@ label, #submit {
 
 /*-------------------------Media Queries-------------------- */ 
 @media only screen and (min-width: 360px) {
-    #overlay h1 {
-        font-size: 1.25rem;
+    h1 {
+        font-size: 1.5rem;
     }
     #logo {
         height: 4rem;
@@ -335,7 +335,7 @@ label, #submit {
 }
 
 @media only screen and (min-width: 576px) {
-    #overlay h1 {
+    h1 {
         font-size: 2rem;
     }
     .contact-info {
@@ -366,8 +366,11 @@ label, #submit {
     .navbar-light .navbar-nav .nav-link:hover {
         background-color: #ffffff;
     } 
-    .station-image {
-        padding-top: 3.5rem;
+    h1 {
+        font-size: 2.4rem;
+    }
+    .home-image, .station-image, .mission-image {
+        padding: 2rem 1.5rem;
     }
     .form-prompt {
         display: none;
