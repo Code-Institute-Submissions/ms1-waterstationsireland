@@ -13,6 +13,7 @@ navigation ease for potential customers looking to find more information about
 the company and/or to enquire about their products.
 
 ---
+![Multi-Device Mockup](documentation/multi-device.jpg)
 
 ## Contents
 - [**User Experience (UX)**](#ux)
