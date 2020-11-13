@@ -88,10 +88,10 @@
                 <form>
                     <div class="form-group">
                         <label for="fullname">Full Name:</label><br>
-                        <input type="text" name="fullname" class="form-control" id="fullname" required><br>
+                        <input type="text" name="fullname" class="form-control" id="fullname" pattern="[A-Z,a-z]" required><br>
 
                         <label for="phone-number">Phone Number:</label><br>
-                        <input type="tel" name="phone-number" class="form-control" id="phone-number" pattern="[0-9,+-]{1,16}" placeholder="Example: +353 87 123 4567" required><br>
+                        <input type="tel" name="phone-number" class="form-control" id="phone-number" pattern="[0-9+-]{1,16}" placeholder="Example: +353 87 123 4567" required><br>
 
                         <label for="email">Email Address:</label><br>
                         <input type="email" name="email" class="form-control" id="email" required><br>
