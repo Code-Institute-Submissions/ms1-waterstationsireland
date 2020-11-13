@@ -211,24 +211,26 @@ across all pages and so I chose an image instead. The same opaque overlay and ti
 format used however, keeps the design consistency flowing.
 
 #### Final Design Differences
-Instead of using the same hero image across *Home, About* and *Product Pages*, I ultimately opted for three different images;
+Instead of using the same hero image across *About, Products* and *Contact Pages*, I ultimately opted for three different images;
 one for each page. This would help to differentiate the pages; separating them and further representing that each page covers 
 something different. I did however, want to maintain a consistent design in order to keep the user comfortable and so I chose 
-three images from a photo series by the same photographer. In doing this there is a nice design flow throughout the site with all 
+three images from a photo series by the same photographer (see [Media Credits](#media)). In doing this there is a nice design flow throughout the site with all 
 the images leading on to each other. Each of the images contains the same opaque overlay and heading style as the video from the 
 *Home Page*; reinforcing design continuity.
+
+![Hero Images](documentation/heroes.jpg)
 
 ---
 
 ## <p align="center">**Features**</p>
 ### **Existing Features**
-- #### Navigation Menu
+- 
     -
-- #### Footer
+- 
     -
-- #### Social Media Links
+- 
     -
-- #### Contact Form
+- 
     -
     
 
@@ -285,8 +287,7 @@ used to deploy the live site.
 ## <p align="center">**Deployment**</p>
 ### **GitHib Pages**
 -
--
--
+
 
 ---
 
