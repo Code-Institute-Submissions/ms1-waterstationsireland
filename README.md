@@ -260,6 +260,7 @@ the images leading on to each other. Each of the images contains the same opaque
 ### **Technologies**
 - [Adobe Illustrator](https://www.adobe.com/ie/products/illustrator.html) - used to create the company logos.
 - [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html) - used to edit and resize all images for web.
+- [Am I Responsive?](http://ami.responsivedesign.is/) - used to create the multi-device image found at the top of this README.
 - [Balsamiq](https://balsamiq.com/) - used to create wireframes.
 - [Bootstrap](https://getbootstrap.com/)  - used throughout the website for responsive layouts across devices and various styling. 
 - [Coolors](https://coolors.co/) - used to choose colour scheme and for contrast-checking of chosen colours.
@@ -269,7 +270,6 @@ the images leading on to each other. Each of the images contains the same opaque
 used to deploy the live site.
 - [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) - used for inspecting various page elements and identifying any layout issues/bugs. 
 - [Google Fonts](https://fonts.google.com/specimen/Raleway?query=rale) - selected <span style="font-family:Raleway">Raleway</span> font.
-- [Techsini Mockup Generator](http://techsini.com/multi-mockup/index.php) - used to create the multi-device image found at the top of this README.
 
 ---
 
