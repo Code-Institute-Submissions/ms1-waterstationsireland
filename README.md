@@ -2,7 +2,7 @@
 
  # <p align="center">**MS1: Water Stations Ireland**</p>
 
- ### View the live project [here.]()
+ ### View the live project [here.](https://loftusn13.github.io/ms1-waterstationsireland/)
 
 This website has been created as my submission for Milestone Project 1 
 for the Code Institute. It is for the Irish company ***Water Stations Ireland***. 
