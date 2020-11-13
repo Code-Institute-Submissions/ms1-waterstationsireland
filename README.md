@@ -45,6 +45,7 @@ the company and/or to enquire about their products.
     - [Technologies](#technologies)
  - [**Testing**](#testing)
     - [User Testing](#user-testing)
+    - [Known Bugs](#known-bugs)
  - [**Deployment**](#deployment)
  - [**Credits**](#credits)
     - [Content](#content)
@@ -204,31 +205,45 @@ video, and this one in particular, as I wanted the landing page to have some
 fluidity. The simple water drop helps to set the tone of the site while acting as 
 the backdrop to the company’s slogan, *"Ireland’s Premier Water Stations"*. 
 
-For the remaining three pages the video is replaced by a hero image of one of the 
-company’s Water Stations. I felt the video would become too repetitive if added 
+For the remaining three pages the video is replaced by a hero image. I felt the video would be too repetitive if added 
 across all pages and so I chose an image instead. The same opaque overlay and title 
 format used however, keeps the design consistency flowing.
 
 #### Final Design Differences
-Any last minute design changes to original plan here.
+Instead of using the same hero image across *Home, About* and *Product Pages*, I ultimately opted for three different images;
+one for each page. This would help to differentiate the pages; separating them and further representing that each page covers 
+something different. I did however, want to maintain a consistent design in order to keep the user comfortable and so I chose 
+three images from a photo series by the same photographer. In doing this there is a nice design flow throughout the site with all 
+the images leading on to each other. Each of the images contains the same opaque overlay and heading style as the video from the 
+*Home Page*; reinforcing design continuity.
 
 ---
 
 ## <p align="center">**Features**</p>
 ### **Existing Features**
-- 
-- 
+- #### Navigation Menu
+    -
+- #### Footer
+    -
+- #### Social Media Links
+    -
+- #### Contact Form
+    -
+    
 
 ### **Current Limitations**
 - As there is no JavaScript in this release, the contact form on the *Contact Page* will not store any data. 
 
 ### **Features Left to Implement**
 - #### Map
-    - An interactive map which allows users to see where Water Stations are already installed and in-use. 
+    - An interactive map which allows users to see where Water Stations are already installed and in-use. This would benefit prospective customers 
+    as they could easily locate and, if desired, visit these locations; allowing them to view the product in person. The map could also be
+    benefical to users looking for places they can refill their own water bottles. 
 
 - #### Gallery Page
     - A full *Gallery Page* which allows users to see a range of images of the different options of Water Stations available, 
-    including images of where these stations are currently installed.
+    including images of where these stations are currently installed. Again this would be of benefit to potential customers 
+    allowing them to see a full range of products on offer.
 
 - #### *Terms* and *Privacy Policy* 
     - The company has not yet finalised the documentation for their *Terms* and *Privacy Policy*. At a later date they will be 
@@ -243,14 +258,14 @@ Any last minute design changes to original plan here.
 - CSS3
 ### **Technologies**
 - [Adobe Illustrator](https://www.adobe.com/ie/products/illustrator.html) - used to create the company logos.
-- [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html) - used to resize all images for web.
+- [Adobe Photoshop](https://www.adobe.com/ie/products/photoshop.html) - used to edit and resize all images for web.
 - [Balsamiq](https://balsamiq.com/) - used to create wireframes.
-- [Bootstrap](https://getbootstrap.com/)  - used throughout the website for various styling and responsive layouts. 
+- [Bootstrap](https://getbootstrap.com/)  - used throughout the website for responsive layouts across devices and various styling. 
 - [Coolors](https://coolors.co/) - used to choose colour scheme and for contrast-checking of chosen colours.
 - [Font Awesome](https://fontawesome.com/) - used icons to create social media links.
-- [Git]() - 
-- [Gitpod](https://www.gitpod.io/) - 
-- [GitHub](https://github.com/) - 
+- [Git](https://git-scm.com/) - version control software used to commit and push code to GitHub.
+- [GitHub](https://github.com/) - hosting site used to store the source code of the site with [GitHub Pages](https://pages.github.com/)
+used to deploy the live site.
 - [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) - used for inspecting various page elements and identifying any layout issues/bugs. 
 - [Google Fonts](https://fonts.google.com/specimen/Raleway?query=rale) - selected <span style="font-family:Raleway">Raleway</span> font.
 - [Techsini Mockup Generator](http://techsini.com/multi-mockup/index.php) - used to create the multi-device image found at the top of this README.
@@ -259,24 +274,34 @@ Any last minute design changes to original plan here.
 
 ## <p align="center">**Testing**</p>
 ### **User Testing**
+-
 
+### **Known Bugs**
+-
+
+---
 
 ## <p align="center">**Deployment**</p>
-
+### **GitHib Pages**
+-
+-
+-
 
 ---
 
 ## <p align="center">**Credits**</p>
 ### **Content**
 - All written content contained on the site was either provided by ***Water Stations Ireland*** or written by me in collaboration with the company.
-- Code for hero video - 
+- Code for hero images was taken and adapted from [w3schools.com](https://www.w3schools.com/howto/howto_css_hero_image.asp).
+- Code for hero video was taken and adapted from [w3schools.com](https://www.w3schools.com/howto/howto_css_fullscreen_video.asp) and [css-tricks.com](https://css-tricks.com/full-page-background-video-styles/).
 
 ### **Media**
 - Water Droplet video on *Home Page* can be found at [Coverr.co](https://coverr.co/videos/slow-motion-water-drop-WGvpkodDWH).
 - Plastic bottle image on *About Page* by Brian Yurasits on [Unsplash](https://unsplash.com/photos/Lvs1F46S8Rs).
+- Hero images on *About, Products* and *Contact Pages* by Elias Maurer on [Unsplash](https://unsplash.com/@snowidesignz).
 - ***Water Stations Ireland*** logos were created by me in collaboration with the company.
 - All other images were provided by ***Water Stations Ireland***. I was granted full permission for use. 
 
 ### **Acknowledgements**
-
+-
 
