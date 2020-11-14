@@ -48,6 +48,8 @@ the company and/or to enquire about their products.
     - [User Testing](#user-testing)
     - [Known Bugs](#known-bugs)
  - [**Deployment**](#deployment)
+    - [GitHub Pages](#github-pages)
+    - [Run Locally](#run-locally)
  - [**Credits**](#credits)
     - [Content](#content)
     - [Media](#media)
@@ -123,7 +125,7 @@ all devices.
 
 #### Contact Page
 - Will contain the company’s phone number, email, address and social media links.
-- Will contain a form for users to fill out with fields for Name, Email, Phone Number, and a Submit button.
+- Will contain a form for users to fill out with fields for Name, Phone Number, Email, Message and a Submit button.
 - All form fields will be required.
 - Users will be alerted if any of the required fields are left blank or filled out incorrectly.
 
@@ -271,7 +273,7 @@ the images leading on to each other. Each of the images contains the same opaque
 - [GitHub](https://github.com/) - hosting site used to store the source code of the site with [GitHub Pages](https://pages.github.com/)
 used to deploy the live site.
 - [Google Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) - used for inspecting various page elements and identifying any layout issues/bugs. 
-- [Google Fonts](https://fonts.google.com/specimen/Raleway?query=rale) - selected <span style="font-family:Raleway">Raleway</span> font.
+- [Google Fonts](https://fonts.google.com/specimen/Raleway?query=rale) - selected <span style="font-family:Raleway">Raleway</span> and <span style="font-family:Montserrat">Montserrat</span> fonts.
 
 ---
 
@@ -285,9 +287,36 @@ used to deploy the live site.
 ---
 
 ## <p align="center">**Deployment**</p>
-### **GitHib Pages**
--
+This site was developed using the IDE [GitPod](https://www.gitpod.io/). Version control software [Git](https://git-scm.com/) was used to commit and push the code to 
+[GitHub](https://github.com/) where it was stored.
 
+### **GitHub Pages**
+To deploy to [GitHub Pages](https://pages.github.com/) these steps were followed:
+
+- Log into GitHub.
+- Navigate to the **Repositories** tab. 
+- Choose the desired repository.
+- Navigate to the **Settings** tab underneath the repository name.
+- Scroll down until you reach the **GitHub Pages** section.
+- Under **Source** click on the **None** drop-down menu and choose **master branch**.
+- Click **Save** and the page will refresh automatically.
+- Scroll back down to the **GitHub Pages** section.
+- You'll see *"Your site is published at"* followed by the site link.
+- The website has been deployed.
+
+### **Run Locally**
+In order to make a clone, follow these steps:
+
+- Log into GitHub.
+- Navigate to the **Repositories** tab. 
+- Choose the desired repository.
+- Above the list of files, click on the **Code** drop-down menu.
+- Copy the clone URL under the **HTTPS** tab.
+- Open a terminal window in your IDE of choice.
+- Change the working directory to whichever location you want the cloned directory to be in.
+- Type *git clone* and then paste the URL that you copied earlier.
+- Press enter.
+- Your local clone has now been created.
 
 ---
 
