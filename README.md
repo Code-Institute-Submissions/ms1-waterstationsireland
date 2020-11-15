@@ -225,16 +225,28 @@ the images leading on to each other. Each of the images contains the same opaque
 ---
 
 ## <p align="center">**Features**</p>
-The website 
-
-**Home**
-
-**About**
-
-**Products**
-
-**Contact**
-
+The website has a clean and visually consistent design throughout and is responsive across devices. Information is separated out through the 
+different pages, with each page serving its own purpose. Only information relevant to the company, their ethos and their products is provided 
+so as not to overwhelm users with unnecessary content that would distract from the purpose of the site. Every page contains the same footer 
+and header.
+#### Home Page 
+- Contains a muted, looped video which autoplays once a user lands on the page. The video has an opaque overlay with the company slogan on top. 
+- Clear and concise information about ***Water Stations Ireland*** and what they do is provided straight away so that users immediately understand what the site is going to be about. 
+- A photo of the company's product is provided so that users can become familiar with their appearance and design.
+- A link to the *Products Page* is provided giving users the option to skip through the site. 
+#### About Page
+- Contains a hero image with an opaque overlay. The heading on top gives insight into the kind of information users can expect on the page.
+- Clear introduction about the Water Stations and their advantages is provided, allowing users to decide whether this is the kind of product they're looking for.
+- Another image of the product is provided to further familiarise users.
+- Clear and concise information about the company's mission/ethos is provided so that users know whether their beliefs align.
+#### Products Page
+- Contains a hero image with an opaque overlay. The heading on top reinforces the company's ethos.
+- Clear and relevant technical information about the different products on offer is provided to allow users to gain a firm understanding of what is available.
+- Multiple images of the products are provided for each different product option, helping to reinforce the information being supplied.
+#### Contact Page
+- Contains a hero image with an opaque overlay. The heading on top provides a call to action to contact the company.
+- Various means of contact are provided including links to social media accounts, allowing users to choose the method that works best for them.
+- A contact form is provided, allowing users to fill in their own contact information and their enquiry.
 
 ### **Existing Features** 
 - **Header Logo**
@@ -249,8 +261,8 @@ The website
     allowing them to quickly find the content they're looking for.
     - On tablet and mobile devices this collapses into a familiar hamburger menu in order to maintain a cleaner design. When clicked, this menu 
     expands to show the list of site pages.   
-    - On both full and collapsed menus, the active page name is a bolder and darker font, allowing users to easily recognise which page 
-    they are on. When other page names are hovered over, the font colour changes, confirming to users that it is a link.  
+    - On both full and collapsed menus, the active page is a bolder and darker font, allowing users to easily recognise which page 
+    they are on. When other pages are hovered over, the font colour changes, confirming to users that it is a link.  
 
 - **Social Media Links**
     - Three social media links for the company's Facebook, Twitter and Instagram accounts exist in the footer on every page of the site, on every 
@@ -311,12 +323,21 @@ The website
 - #### Gallery Page
     - A full *Gallery Page* which allows users to see a range of images of the different options of Water Stations available, 
     including images of where these stations are currently installed. Again, this would be a benefit to potential customers 
-    allowing them to see a full range of products on offer.
+    allowing them to see a full range of products on offer. The company does not, at this time, have sufficient images of the 
+    products to create such a gallery.
+
+- #### Contact Form
+    - Have the entered form data submitted and generated into an email that will be sent to the company.
+    - Add a CAPTCHA to the contact form to protect the company from spam.
 
 - #### *Terms* and *Privacy Policy* 
     - The company has not yet finalised the documentation for their *Terms* and *Privacy Policy*. At a later date they will be 
     accessed on the website via links in the footer. In this release, these links are empty and, if clicked, will keep the 
     user on the current page. 
+
+- #### GDPR Compliancy 
+    - Implement various features required for the website to fully comply with EU data-protection laws, including but not limited to, 
+    adding a cookie notice and adding a checkbox in the contact form that must be ticked by the user to confirm they accept the *Terms*.
 
 ---
 
