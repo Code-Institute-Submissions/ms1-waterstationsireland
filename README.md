@@ -225,29 +225,92 @@ the images leading on to each other. Each of the images contains the same opaque
 ---
 
 ## <p align="center">**Features**</p>
-### **Existing Features**
-- 
-    -
-- 
-    -
-- 
-    -
-- 
-    -
-    
+The website 
+
+**Home**
+
+**About**
+
+**Products**
+
+**Contact**
+
+
+### **Existing Features** 
+- **Header Logo**
+    - The ***Water Stations Ireland*** logo contained in the top left of the header exists on every page of the site and on every device, allowing 
+    users to become familiar with the company brand. 
+    - This logo acts as a link to the *Home Page*, allowing users to always and easily return to the start of the site. 
+
+- **Navigation Bar**
+    - The navigation bar is contained in the header and exists on every page of the site and on every device, allowing users to easily navigate 
+    through and ensuring that there is no location within the site that they could not return from.
+    - It contains clear names of each site page (*Home, About, Products, Contact*) to ensure users know what kind of information to expect; 
+    allowing them to quickly find the content they're looking for.
+    - On tablet and mobile devices this collapses into a familiar hamburger menu in order to maintain a cleaner design. When clicked, this menu 
+    expands to show the list of site pages.   
+    - On both full and collapsed menus, the active page name is a bolder and darker font, allowing users to easily recognise which page 
+    they are on. When other page names are hovered over, the font colour changes, confirming to users that it is a link.  
+
+- **Social Media Links**
+    - Three social media links for the company's Facebook, Twitter and Instagram accounts exist in the footer on every page of the site, on every 
+    device and also on the *Contact Page*, giving users the option to learn more about the company and/or follow them on social media. 
+    - All three links are in the form of the appropriate and familiar social media icons, allowing users to know which platform they can expect to 
+    be brought to.
+    - In both the footer and the *Contact Page* the links are located below a call-to-action message inviting users to connect with the company. This 
+    message is hidden in the footer on mobile devices to maintain a cleaner design.
+    - When each icon is hovered over, the colour changes, confirming to users that it is a link.
+    - When clicked, all three links open in a new tab ensuring the user does not lose their way back to the site.
+
+- **Copyright**
+    - "&copy; *Copyright 2020;* Water Stations Ireland" exists in the footer on every page of the site and on every device, protecting the company's content. 
+
+- **Footer Logos**
+    - The ***Water Stations Ireland*** logo exists in the footer on every page of the site and on every device, allowing users to become familiar with the company brand.
+    - The *Guaranteed Irish* logo exists in the footer on every page of the site and on every device, reminding users that this is an Irish-owned company, something which 
+    is very important to the company.  
+
+- **Contact Information** 
+    - The company's phone number and email address exists in the footer on every page of the site and on every device, allowing users to easily contact 
+    the company if they wish to do so.
+    - The company's phone number, email address and their base locations are located in the *Contact Page* on every device, allowing users to easily contact 
+    the company if they wish to do so.
+    - The phone number in both the footer and *Contact Page* acts as a link and, when clicked, brings the user to a method of making a call; whether that is their keypad 
+    on mobile devices, or an app/method of making phone calls on tablets or desktop. This makes it easier for users to call the company if they wish to do so.
+    - In both the footer and *Contact Page* the contact information is located below a call-to-action message inviting users to contact the company. This 
+    message is hidden in the footer on mobile devices to maintain a cleaner design.
+    - An internal link to the *Contact Page* exists in the footer on every page of the site and on every device. This link is within a call-to-action message inviting users to make an 
+    enquiry. When hovered over, the font colour of the link changes, confirming to users that it is a link.
+
+- **Contact Form**
+    - A contact form with fields for **Full Name, Phone Number, Email Address, Subject** and a **Submit button** exists on the *Contact Page* on every device. 
+    This allows users to contact the company with their question/enquiry and to provide their own contact details for the company to reach out to them with the answer 
+    or information requested.
+    - Each field has a label ensuring users know what information should be entered.
+    - Each field is required and upon clicking the **Submit button**, if any field is left blank, users are alerted to this via a "Please fill out this field"
+    message which will appear beneath the empty field. This allows users to easily see and understand why they cannot submit the form.
+    - Users are alerted if the **Email Address** field is filled out incorrectly, i.e. wrong format, missing a "." or "@". If incorrect, users are alerted to this 
+    via a message which will appear beneath the field explaining what the problem is. This allows users to easily identify and fix the mistake.
+    - Users are alerted if the **Phone Number** field is filled out incorrectly, i.e. they have entered letter(s) when only numbers, "-" and "+" are allowed. If 
+    incorrect, users are alerted to this via a "Please match the requested format" message which will appear beneath the field. This allows users to easily identify 
+    and fix the mistake. 
+
+
+
+
 
 ### **Current Limitations**
-- As there is no JavaScript in this release, the contact form on the *Contact Page* will not store any data. 
+- As there is no JavaScript in this release, the contact form on the *Contact Page* does not store any data. 
 
 ### **Features Left to Implement**
 - #### Map
     - An interactive map which allows users to see where Water Stations are already installed and in-use. This would benefit prospective customers 
     as they could easily locate and, if desired, visit these locations; allowing them to view the product in person. The map could also be
-    benefical to users looking for places they can refill their own water bottles. 
+    beneficial to users looking for places they can refill their own water bottles. 
 
 - #### Gallery Page
     - A full *Gallery Page* which allows users to see a range of images of the different options of Water Stations available, 
-    including images of where these stations are currently installed. Again this would be of benefit to potential customers 
+    including images of where these stations are currently installed. Again, this would be a benefit to potential customers 
     allowing them to see a full range of products on offer.
 
 - #### *Terms* and *Privacy Policy* 
