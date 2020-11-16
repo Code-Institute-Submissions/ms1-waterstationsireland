@@ -398,11 +398,12 @@ different devices.
             - **OnePlus:** 6T, 8 and Nord. 
             - **Samsung:** Galaxy A40 and Galaxy A5.
         - Android tablet - 
-            - **Samsung:** Tab A.
+            - **Samsung:** Tab A. 
+            - **Huawei:**
         - Apple mobile - 
             - **iPhone:** 6, 8, 11 and X.
         - Apple tablet - 
-            - **iPad:** 3rd Gen (iOS 9.3.5).
+            - **iPad:** 3rd Gen (iOS 9.3.5) and 4th Gen (iOS 10.3.3)
     - From my own testing and from feedback received from others who viewed the website, I found:
         - The site was fully responsive on all tested devices.
         - Design and layout remained consistent and flowing.
@@ -411,12 +412,23 @@ different devices.
     - One friend alerted me to something they noticed on their **iPhone 11** device; details of which can be found in [Known Bugs](#known-bugs) below.
 
 ### **Testing User Stories**
-- As a potential customer, I want to learn about the company, their values and their goals.
-- As a potential customer, I want to find detailed descriptions and clear images of the Water Stations the company offers.
-- As a potential customer, I want to easily be able to contact the company for further information.
-- As a potential customer, I want to easily navigate through the website.
-- As a potential customer, I want the website to be responsive on whichever device I’m viewing it on.
-- As a potential customer, I want to explore a clean and professional website.
+- "*As a potential customer, I want to learn about the company, their values and their goals.*"
+    
+
+- "*As a potential customer, I want to find detailed descriptions and clear images of the Water Stations the company offers.*"
+
+
+- "*As a potential customer, I want to easily be able to contact the company for further information.*"
+
+
+- "*As a potential customer, I want to easily navigate through the website."*
+
+
+- "*As a potential customer, I want the website to be responsive on whichever device I’m viewing it on.*"
+
+
+- "*As a potential customer, I want to explore a clean and professional website.*"
+
 
 ### **Known Bugs**
 - I was made aware of a slight bug on the **iPhone 11**:
@@ -434,7 +446,7 @@ different devices.
 - Another bug presents on the **iPad 3rd Gen.** (iOS 9.3.5):
     - Upon landing on the *Home Page* the hero video does not autoplay. 
     - It appears as though it is a still image and does not start playing at any time.
-    - From my testing across all other devices as mentioned previously, this bug was not found on any other device.
+    - From my testing across all other devices as mentioned previously, this bug was not found on any other device, including the other **iPad** model.
 
 ---
 
