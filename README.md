@@ -427,12 +427,12 @@ different devices.
         - I reached out to two other friends who also have the **iPhone 11** to ensure this was a model bug and not limited to just one device; they confirmed the same bug was present on their phones.
         - I asked them to open the site on both *Safari* and *Google Chrome* browsers to try and rule out if the bug was due to a browser but they reported that the bug is present across both browsers.
     - From my testing across all other devices as mentioned previously, this bug was not found on any other **iPhone** models or devices.
-    - Further testing will be require to attempt to solve this bug.
-    
+    - Further testing will be required to attempt to solve this bug.
+
 <p align="center"><img src="documentation/iphone11.jpg" width="80%"/></p>
 
 - Another bug presents on the **iPad 3rd Gen.** (iOS 9.3.5):
-    - Upon landing on the *Home Page* the hero image does not autoplay. 
+    - Upon landing on the *Home Page* the hero video does not autoplay. 
     - It appears as though it is a still image and does not start playing at any time.
     - From my testing across all other devices as mentioned previously, this bug was not found on any other device.
 
