@@ -451,8 +451,12 @@ different devices.
 ---
 
 ## <p align="center">**Deployment**</p>
-This site was developed using the IDE [GitPod](https://www.gitpod.io/). Version control software [Git](https://git-scm.com/) was used to commit and push the code to 
-[GitHub](https://github.com/) where it was stored.
+This project used the Code Institute's student [template](https://github.com/Code-Institute-Org/gitpod-full-template). A new repository named **ms1-waterstationsireland**
+was created which included all branches from the template. The project was developed using the IDE [GitPod](https://www.gitpod.io/). Version control software [Git](https://git-scm.com/) was used to commit and push the code to 
+[GitHub](https://github.com/) where it was stored. The following commands were used for this:
+- **git add** ***filename/directory*** - This command adds files/directories to the staging area to be committed.
+- **git commit -m** *"message here"* - This command commits files/directories to the repository. Commit messages should clearly explain the update being committed.
+- **git push** - This command pushes all committed updates/changes into the GitHub repository.
 
 ### **GitHub Pages**
 To deploy to [GitHub Pages](https://pages.github.com/) these steps were followed:
